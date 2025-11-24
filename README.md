@@ -29,6 +29,6 @@ This dashboard provides a deep dive into listening data across three views:
 * **Platform/Visualization Tool:** **Microsoft Power BI Desktop**
 * **Data Preparation:** **Spreadsheets** for initial data cleaning and ETL from the raw or simulated data source.
 * **Data Source:** **Generated/Sample Spotify Streaming Data** designed to mimic real-world listening behavior.
-* **Languages/Tools Used:** **Power Query (M language)** for data transformation within Power BI, and **Data Analysis Expressions (DAX)** for creating measures and calculated columns.
+* **Languages/Tools Used:** **Power Query** for data transformation within Power BI, and **Data Analysis Expressions (DAX)** for creating measures and calculated columns.
 
 ---
